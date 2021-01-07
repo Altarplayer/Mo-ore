@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moore:blocks/platinium_oretx",
+    "up": "moore:blocks/platinium_oretx",
+    "north": "moore:blocks/platinium_oretx",
+    "east": "moore:blocks/platinium_oretx",
+    "south": "moore:blocks/platinium_oretx",
+    "west": "moore:blocks/platinium_oretx",
+    "particle": "moore:blocks/platinium_oretx"
+  }
+}

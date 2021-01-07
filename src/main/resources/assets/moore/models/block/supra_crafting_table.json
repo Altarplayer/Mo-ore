@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moore:blocks/upgrade_table_top",
+    "up": "moore:blocks/upgrade_table_bottom",
+    "north": "moore:blocks/upgrade_table_front",
+    "east": "moore:blocks/upgrade_table_side",
+    "south": "moore:blocks/upgrade_table_side",
+    "west": "moore:blocks/upgrade_table_side",
+    "particle": "moore:blocks/upgrade_table_top"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Craftofsupra",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "craftofsupra"
+    },
+    {
+      "name": "PlatiniumPickaxe",
+      "type": "tool",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_pickaxe"
+    },
+    {
+      "name": "Platiniumore",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platiniumore"
+    },
+    {
+      "name": "Platiniumingot",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platiniumingot"
+    },
+    {
+      "name": "Attachment",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "attachment"
+    },
+    {
+      "name": "Ironstick",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironstick"
+    },
+    {
+      "name": "SupraCraftingTable",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "supra_crafting_table"
+    },
+    {
+      "name": "SupraCarftingTableGUI",
+      "type": "gui",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "supra_carfting_table_gui"
+    },
+    {
+      "name": "SupraCraftingTableOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "supra_crafting_table_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SupraCraftingTableUpdateTick",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "supra_crafting_table_update_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Moore",
+      "type": "tab",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moore"
+    },
+    {
+      "name": "PlatiniumAxe",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "platinium_axe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.moore.platiniumingot": "Platinium ingot",
+      "item.moore.platinium_axe": "Platinium Axe",
+      "block.moore.platiniumore": "Platinium ore",
+      "item.moore.attachment": "Attachment",
+      "item.moore.ironstick": "Iron stick",
+      "item.moore.platinium_pickaxe": "Platinium Pickaxe",
+      "itemGroup.tabmoore": "Mo\u0027ore",
+      "block.moore.supra_crafting_table": "Supra Crafting Table"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "moore",
+    "modName": "Mo\u0027ore",
+    "version": "1.0.0",
+    "author": "heitz, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.moore",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}
