@@ -1,21 +1,12 @@
 
 package net.mcreator.moore.item;
 
-import net.minecraftforge.registries.ObjectHolder;
-
-import net.minecraft.item.crafting.Ingredient;
-import net.minecraft.item.ShovelItem;
-import net.minecraft.item.ItemStack;
-import net.minecraft.item.Item;
-import net.minecraft.item.IItemTier;
-
-import net.mcreator.moore.itemgroup.MooreItemGroup;
-import net.mcreator.moore.MooreModElements;
-
 @MooreModElements.ModElement.Tag
 public class PlatinumshovelItem extends MooreModElements.ModElement {
+
 	@ObjectHolder("moore:platinumshovel")
 	public static final Item block = null;
+
 	public PlatinumshovelItem(MooreModElements instance) {
 		super(instance, 15);
 	}
@@ -47,6 +38,8 @@ public class PlatinumshovelItem extends MooreModElements.ModElement {
 				return Ingredient.fromStacks(new ItemStack(PlatiniumingotItem.block, (int) (1)));
 			}
 		}, 1, -2f, new Item.Properties().group(MooreItemGroup.tab)) {
+
 		}.setRegistryName("platinumshovel"));
 	}
+
 }
