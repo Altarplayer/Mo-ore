@@ -152,6 +152,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "platinium_axe"
+    },
+    {
+      "name": "GlowyDirt",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "glowy_dirt"
     }
   ],
   "variable_elements": [],
@@ -161,6 +170,7 @@
       "item.moore.platiniumingot": "Platinium ingot",
       "item.moore.platinium_axe": "Platinium Axe",
       "block.moore.platiniumore": "Platinium ore",
+      "block.moore.glowy_dirt": "Glowy Dirt",
       "item.moore.attachment": "Attachment",
       "item.moore.ironstick": "Iron stick",
       "item.moore.platinium_pickaxe": "Platinium Pickaxe",

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moore:blocks/bottomdirt_tx",
+    "up": "moore:blocks/glowydirt_tx",
+    "north": "moore:blocks/glowydirt2_tx",
+    "east": "moore:blocks/glowydirt2_tx",
+    "south": "moore:blocks/glowydirt2_tx",
+    "west": "moore:blocks/glowydirt2_tx",
+    "particle": "moore:blocks/bottomdirt_tx"
+  }
+}
