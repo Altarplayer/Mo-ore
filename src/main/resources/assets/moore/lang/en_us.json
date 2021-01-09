@@ -1,13 +1,14 @@
 {
   "item.moore.platiniumingot": "Platinium ingot",
   "item.moore.platinium_axe": "Platinium Axe",
+  "block.moore.glowy_dirt": "Glowy Dirt",
+  "block.moore.supra_crafting_table": "Supra Crafting Table",
   "item.moore.platinumshovel": "Platinumshovel",
   "block.moore.platiniumore": "Platinium ore",
-  "block.moore.glowy_dirt": "Glowy Dirt",
   "item.moore.attachment": "Attachment",
   "item.moore.ironstick": "Iron stick",
+  "block.moore.yelly_stone": "Yelly Stone",
   "item.moore.platinium_pickaxe": "Platinium Pickaxe",
   "itemGroup.tabmoore": "Mo\u0027ore",
-  "block.moore.supra_crafting_table": "Supra Crafting Table",
   "item.moore.cola": "Cola"
 }

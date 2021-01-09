@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moore:blocks/yellysone_tx",
+    "up": "moore:blocks/yellysone_tx",
+    "north": "moore:blocks/yellysone_tx",
+    "east": "moore:blocks/yellysone_tx",
+    "south": "moore:blocks/yellysone_tx",
+    "west": "moore:blocks/yellysone_tx",
+    "particle": "moore:blocks/yellysone_tx"
+  }
+}

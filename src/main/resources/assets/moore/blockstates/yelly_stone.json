@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "moore:block/yelly_stone"
+    },
+    "facing=east": {
+      "model": "moore:block/yelly_stone",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "moore:block/yelly_stone",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "moore:block/yelly_stone",
+      "y": 270
+    }
+  }
+}
