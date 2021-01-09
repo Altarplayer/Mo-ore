@@ -188,6 +188,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "yelly_stone"
+    },
+    {
+      "name": "ColaFoodEaten",
+      "type": "procedure",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cola_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],

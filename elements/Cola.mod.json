@@ -12,15 +12,18 @@
       "value": "CUSTOM:Moore"
     },
     "stackSize": 64,
-    "nutritionalValue": 2,
+    "nutritionalValue": 1,
     "saturation": 0.5,
-    "eatingSpeed": 32,
+    "eatingSpeed": 5,
     "resultItem": {
       "value": ""
     },
     "forDogs": false,
-    "isAlwaysEdible": false,
+    "isAlwaysEdible": true,
     "animation": "drink",
-    "hasGlow": false
+    "hasGlow": false,
+    "onEaten": {
+      "name": "ColaFoodEaten"
+    }
   }
 }
