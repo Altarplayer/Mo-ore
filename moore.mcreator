@@ -157,7 +157,7 @@
       "name": "Platinumshovel",
       "type": "tool",
       "sortid": 15,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "platinumshovel"
@@ -166,7 +166,7 @@
       "name": "GlowyDirt",
       "type": "block",
       "sortid": 15,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "glowy_dirt"
@@ -178,7 +178,9 @@
     "en_us": {
       "item.moore.platiniumingot": "Platinium ingot",
       "item.moore.platinium_axe": "Platinium Axe",
+      "item.moore.platinumshovel": "Platinumshovel",
       "block.moore.platiniumore": "Platinium ore",
+      "block.moore.glowy_dirt": "Glowy Dirt",
       "item.moore.attachment": "Attachment",
       "item.moore.ironstick": "Iron stick",
       "item.moore.platinium_pickaxe": "Platinium Pickaxe",
