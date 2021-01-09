@@ -157,7 +157,7 @@
       "name": "Platinumshovel",
       "type": "tool",
       "sortid": 15,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "platinumshovel"
@@ -166,7 +166,7 @@
       "name": "GlowyDirt",
       "type": "block",
       "sortid": 15,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "glowy_dirt"
