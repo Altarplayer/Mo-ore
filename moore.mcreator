@@ -205,18 +205,160 @@
           }
         ]
       }
+    },
+    {
+      "name": "GummyWood",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gummy_wood"
+    },
+    {
+      "name": "GummyLog",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gummy_log"
+    },
+    {
+      "name": "GummyPlanks",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gummy_planks"
+    },
+    {
+      "name": "GummyStairs",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gummy_stairs"
+    },
+    {
+      "name": "GummySlab",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gummy_slab"
+    },
+    {
+      "name": "GummyFence",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gummy_fence"
+    },
+    {
+      "name": "GummyFenceGate",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gummy_fence_gate"
+    },
+    {
+      "name": "GummyItemsTag",
+      "type": "tag",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gummy_items_tag"
+    },
+    {
+      "name": "GummyWoodRecipe",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gummy_wood_recipe"
+    },
+    {
+      "name": "GummyPlanksRecipe",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gummy_planks_recipe"
+    },
+    {
+      "name": "GummyStairsRecipe",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gummy_stairs_recipe"
+    },
+    {
+      "name": "GummySlabRecipe",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gummy_slab_recipe"
+    },
+    {
+      "name": "GummyFenceRecipe",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gummy_fence_recipe"
+    },
+    {
+      "name": "GummyFenceGateRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gummy_fence_gate_recipe"
+    },
+    {
+      "name": "GummyStickRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gummy_stick_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.moore.gummy_slab": "Gummy Slab",
       "item.moore.platiniumingot": "Platinium ingot",
       "item.moore.platinium_axe": "Platinium Axe",
       "block.moore.glowy_dirt": "Glowy Dirt",
+      "block.moore.gummy_planks": "Gummy Planks",
+      "block.moore.gummy_fence": "Gummy Fence",
       "block.moore.supra_crafting_table": "Supra Crafting Table",
+      "block.moore.gummy_wood": "Gummy Wood",
+      "block.moore.gummy_stairs": "Gummy Stairs",
+      "block.moore.gummy_log": "Gummy Log",
       "item.moore.platinumshovel": "Platinumshovel",
       "block.moore.platiniumore": "Platinium ore",
+      "block.moore.gummy_fence_gate": "Gummy Fence Gate",
       "item.moore.attachment": "Attachment",
       "item.moore.ironstick": "Iron stick",
       "block.moore.yelly_stone": "Yelly Stone",

@@ -1,0 +1,20 @@
+{
+  "group": "moore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "moore:gummy_planks"
+    },
+    "1": {
+      "item": "moore:gummy_planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:stick",
+    "count": 4
+  }
+}

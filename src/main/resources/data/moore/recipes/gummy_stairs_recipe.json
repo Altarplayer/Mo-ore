@@ -1,0 +1,33 @@
+{
+  "group": "moore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "moore:gummy_planks"
+    },
+    "3": {
+      "item": "moore:gummy_planks"
+    },
+    "4": {
+      "item": "moore:gummy_planks"
+    },
+    "6": {
+      "item": "moore:gummy_planks"
+    },
+    "7": {
+      "item": "moore:gummy_planks"
+    },
+    "8": {
+      "item": "moore:gummy_planks"
+    }
+  },
+  "result": {
+    "item": "moore:gummy_stairs",
+    "count": 4
+  }
+}

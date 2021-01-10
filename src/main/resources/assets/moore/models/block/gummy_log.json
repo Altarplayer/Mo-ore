@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moore:blocks/gummy_log_top",
+    "up": "moore:blocks/gummy_log_top",
+    "north": "moore:blocks/gummy_log_side",
+    "east": "moore:blocks/gummy_log_side",
+    "south": "moore:blocks/gummy_log_side",
+    "west": "moore:blocks/gummy_log_side",
+    "particle": "moore:blocks/gummy_log_top"
+  }
+}

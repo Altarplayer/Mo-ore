@@ -1,0 +1,32 @@
+{
+  "group": "moore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stick"
+    },
+    "1": {
+      "item": "moore:gummy_planks"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "4": {
+      "item": "moore:gummy_planks"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "moore:gummy_fence_gate",
+    "count": 1
+  }
+}

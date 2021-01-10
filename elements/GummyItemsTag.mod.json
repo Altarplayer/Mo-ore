@@ -1,0 +1,19 @@
+{
+  "_fv": 13,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:GummyWood"
+      },
+      {
+        "value": "CUSTOM:GummyLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "name": "gummy_log",
+    "namespace": "forge"
+  }
+}

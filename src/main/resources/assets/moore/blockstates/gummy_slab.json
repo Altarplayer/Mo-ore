@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "moore:block/gummy_slab"
+    },
+    "type=top": {
+      "model": "moore:block/gummy_slab_top"
+    },
+    "type=double": {
+      "model": "moore:block/gummy_slab_full"
+    }
+  }
+}

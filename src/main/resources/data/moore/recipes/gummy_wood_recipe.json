@@ -1,0 +1,26 @@
+{
+  "group": "moore",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "moore:gummy_log"
+    },
+    "1": {
+      "item": "moore:gummy_log"
+    },
+    "2": {
+      "item": "moore:gummy_log"
+    },
+    "3": {
+      "item": "moore:gummy_log"
+    }
+  },
+  "result": {
+    "item": "moore:gummy_wood",
+    "count": 3
+  }
+}

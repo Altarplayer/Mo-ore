@@ -1,0 +1,13 @@
+{
+  "group": "moore",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:gummy_log"
+    }
+  ],
+  "result": {
+    "item": "moore:gummy_planks",
+    "count": 4
+  }
+}
