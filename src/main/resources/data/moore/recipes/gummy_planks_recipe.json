@@ -3,7 +3,7 @@
   "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
-      "tag": "forge:gummy_log"
+      "item": "moore:gummy_log"
     }
   ],
   "result": {
